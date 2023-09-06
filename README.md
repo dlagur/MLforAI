@@ -1,2 +1,2 @@
-# AIForML
+# MLForAI
 &lt;AI를 위한 머신러닝> 관련 강의 자료 / 과제 및 코드 모음
